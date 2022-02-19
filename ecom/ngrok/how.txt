@@ -1,0 +1,5 @@
+#how to run
+
+#on laravel homestead
+./ngrok http -host-header=rewrite ecom.test:80
+
